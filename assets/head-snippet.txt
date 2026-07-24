@@ -1,0 +1,11 @@
+<!-- Crest Property Maintenance brand assets -->
+<link rel="icon" href="assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+<meta name="theme-color" content="#0A1D37">
+
+<!-- Social sharing -->
+<meta property="og:image" content="https://crestpropertymaintenance.com/assets/og-image.png">
+<meta property="og:title" content="Crest Property Maintenance">
+<meta property="og:description" content="Commercial warehouse cleaning, make-ready services, and property maintenance.">
